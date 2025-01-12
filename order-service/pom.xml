@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.balgopalposhak</groupId>
 	<artifactId>order-service</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>order-service</name>
 	<description>Order service for the Balgopal Poshak e-commerce platform</description>
 	<url/>
