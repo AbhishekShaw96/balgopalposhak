@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.balgopalposhak</groupId>
 	<artifactId>user-service</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>user-service</name>
 	<description>User service for the Balgopal Poshak e-commerce platform</description>
 	<url />
