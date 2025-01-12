@@ -1,0 +1,21 @@
+# Maven
+target/
+
+# Eclipse
+*.classpath
+*.project
+*.settings/
+
+# IntelliJ IDEA
+.idea/
+
+# Log files
+*.log
+
+# Spring Boot
+*.war
+*.jar
+
+# OS-specific files
+.DS_Store
+Thumbs.db
